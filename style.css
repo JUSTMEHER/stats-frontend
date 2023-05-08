@@ -31,8 +31,6 @@ body{
     background: linear-gradient(hsla(277, 95%, 37%, 0.679),hsla(293, 100%, 28%, 0.736));
     height:447px;
     width: 540px;
-    position: absolute;
-    top:182px;
     border-radius: 0 10px 10px 0;
     opacity: .5;
 }
@@ -95,8 +93,6 @@ h2{
         width: 406px;
         height: 300px;
         border-radius: 10px 10px 0 0;
-        position: absolute;
-        top:78px
     }
     .card{
         width:406px;
