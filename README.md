@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://github.com/JUSTMEHER/product-preview-frontend)
-- Live Site URL: [Live Site URL ](https://justmeher.github.io/product-preview-frontend/)
+- Solution URL: [Solution URL](https://github.com/JUSTMEHER/stats-frontend/)
+- Live Site URL: [Live Site URL ](https://justmeher.github.io/stats-frontend)
 
 
 ### Built with
